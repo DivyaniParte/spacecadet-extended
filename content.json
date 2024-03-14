@@ -1,0 +1,12 @@
+{
+  "navigation": [
+    {
+      "label": "Front End",
+      "link": "/frontend"
+    },
+    {
+      "label": "Back End",
+      "link": "/backend"
+    }
+  ]
+}

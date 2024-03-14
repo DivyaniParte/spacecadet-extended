@@ -1,0 +1,110 @@
+{
+  "navigation": {
+    "instructions": "instructions",
+    "fullstack": "fullstack",
+    "frontend": "frontend",
+    "plan": "plan your trip"
+  },
+  "homepage": {
+    "hero": {
+      "title": "welcome aboard SPACECADET",
+      "subtitle": "Greetings Earthling",
+      "content": "As a developer on the project, you'll be tasked with building a set of shiny new features to better serve interplanetary travelers. Before we lay out what we're looking to add to SPACECADET, let's get familiar with what it is in the first place."
+    },
+    "intro": {
+      "title": " made easy(ish)",
+      "subtitle": "space travel",
+      "content": "Unlike at ground-level, where cities and landmarks stay put, planets are constantly orbiting their star. That makes knowing how far your destination is on a given day a real pain. Plus, even the latest and greatest interplanetary ships can only travel up to 200,000 kilometers at a time before running out of juice."
+    },
+    "howItWorks": {
+      "title": "how it works",
+      "subtitle": "a look at",
+      "content": "Unlike at ground-level, where cities and landmarks stay put, planets are constantly orbiting their star. That makes knowing how far your destination is on a given day a real pain. Plus, even the latest and greatest interplanetary ships can only travel up to 200,000 kilometers at a time before running out of juice.",
+      "step": "step",
+      "steps": [
+        "Enter your departure and destination planets, along with the day you plan to set off.",
+        "Once you've made your choices, we pass them on to our API, which returns the distance between the planets in kilometers.",
+        "If the distance is smaller than 200,000 kilometers, it's all systems go. If not, it's time for a change of plans."
+      ]
+    },
+    "getStarted": {
+      "title": "get started?",
+      "subtitle": "ready to",
+      "content": "Before we get to the requirements, take some time to try out the interface for yourself. When you’re done, go visit the instructions page to see what you'll be building.",
+      "instructions": "instructions",
+      "plan": "plan your trip"
+    }
+  },
+  "frontend": {
+    "hero": {
+      "title": "instructions",
+      "subtitle": "frontend",
+      "content": "Below you'll find a breakdown of two new features you'll be building. Build them in the order they are listed, following the git workflow guidelines outlined at the bottom of this page. We don't want to take up too much of your time so once you've reached the five hour mark, please submit whatever your work."
+    },
+    "intro": {
+      "title": "keep in mind",
+      "subtitle": "things to",
+      "content": "All orbits are perfectly circular and planets move clockwise.\n\n Our ships travel at near lightspeed, so any amount of travel can be done in a single day.\n\n Ships can only travel in straight lines between planets.\n\n You can only visit a planet once in a given trip.\n\n You can travel through the sun, but it can't be chosen as a stop."
+    },
+    "features": [
+      {
+        "title": "multiple stops per trip",
+        "subtitle": "feat/multiple-stops",
+        "content": "At the moment, travellers are limited to choosing one departure and one destination planet, which leads to frustration when trying to plan a trip to multiple planets. Implement a multi-stop route planning interface where users can add additional stops to their trip. The user should be able to add, remove and edit existing stops at any time. Due to interplanetary visa restrictions, a user can only visit a planet once per trip. That's right, bureaucracy is a universal constant."
+      },
+      {
+        "title": "routes on a map",
+        "subtitle": "feat/route-map",
+        "content": "One of the most frequent comments we get from users is that the interface could use some love. Now that we've added multi-stop routes, we think it's even more important to introduce a map that visually represents the route. Implement a map of the solar system and show the route by numbering the planets that make up the user-defined route. "
+      }
+    ],
+    "submitWork": {
+      "subtitle": "how to",
+      "title": "submit your work",
+      "content": "Clone the repo at [github.com/cloudraker/spacecadet](https://github.com/cloudraker/spacecadet). Create a new private repo on your GitHub account and push the contents of spacecadet to it.\n\n Build each feature in the appropriate branch, create a Pull Request and merge it into main.\n\n When you're done, invite the following users:\n\n baptistelaget, beaulac, ninayujiri & gpapascr",
+      "instructions": "instructions",
+      "plan": "plan your trip"
+    }
+  },
+  "fullstack": {
+    "hero": {
+      "title": "instructions",
+      "subtitle": "backend",
+      "content": "Below you'll find a breakdown of two new features you'll be building. Build them in the order they are listed, following the git workflow guidelines outlined at the bottom of this page. We don't want to take up too much of your time so once you've reached the five hour mark, please submit whatever your work."
+    },
+    "intro": {
+      "title": "keep in mind",
+      "subtitle": "things to",
+      "content": "All orbits are perfectly circular and planets move clockwise.\n\nYou can refuel at every stop.\n\n Our ships travel at near lightspeed, so any amount of travel can be done in a single day.\n\n Ships can only travel in straight lines between planets.\n\n You can only visit a planet once in a given trip.\n\n You can travel through the sun, but it can't be chosen as a stop."
+    },
+    "features": [
+      {
+        "title": "multiple stops per trip",
+        "subtitle": "feat/multiple-stops",
+        "content": "At the moment, travellers are limited to choosing one departure and one destination planet, which leads to frustration when trying to plan a trip to multiple planets. Implement a multi-stop route planning interface where users can add additional stops to their trip. The user should be able to add, remove and edit existing stops at any time. Due to interplanetary visa restrictions, a user can only visit a planet once per trip. That's right, bureaucracy is a universal constant."
+      },
+      {
+        "title": "save routes",
+        "subtitle": "feat/save-routes",
+        "content": "We often hear from users that they would like to be able to save and view their trips.Now that we've added multi-stop routes, we think it's even more important to introduce this feature. To do so we'll need a JWT-based user authentication system. Users can sign up and log in with a username and password. We don't need a \"Forgot your password\" option; aliens are great at remembering strange strings. We also need to tweak the interface to allow for saving the current trip and viewing previous ones."
+      }
+    ],
+    "submitWork": {
+      "subtitle": "how to",
+      "title": "submit your work",
+      "content": "Clone the repo at [github.com/cloudraker/spacecadet](https://github.com/cloudraker/spacecadet).\n\nCreate a new private repo on your GitHub account and push the contents of spacecadet to it.\n\n Build each feature in the appropriate branch, create a Pull Request and merge it into main.\n\n When you're done, invite the following users:\n\n baptistelaget, beaulac, ninayujiri & gpapascr",
+      "instructions": "instructions",
+      "plan": "plan your trip"
+    }
+  },
+  "planner": {
+    "leaving": "I'm leaving from",
+    "going": "and going to",
+    "on": "on",
+    "departure": "departure",
+    "success": "bon voyage!",
+    "failure": "Sorry, you won't make it.",
+    "destination": "destination",
+    "datepicker": "choose a date"
+  }
+}

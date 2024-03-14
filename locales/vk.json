@@ -1,0 +1,110 @@
+{
+  "navigation": {
+    "instructions": "inkrurnions",
+    "fullstack": "phooldeck",
+    "frontend": "beckunt",
+    "plan": "lole leage"
+  },
+  "homepage": {
+    "hero": {
+      "subtitle": "amin tione",
+      "title": "done naa SPACECADET",
+      "content": "lagol alaa amin uuma mirna ta elkula laba' manaamen' olka lasa.  Ohter en aonaeru nalnerir tanya fernula ram en' olno.  Yurka ten' lemer en' temkla ya! ta laka lalodramin.  Le mirna salk teta' elko lye omelka khelek kiko' luhta kalka.  Teoso laba'beramin earum tyera herwer mani naa tanya nat'"
+    },
+    "intro": {
+      "title": " dome ne(nec)",
+      "subtitle": "girgairu urma",
+      "content": "yanume terion ta naa susamin.  Ne naa corucior nu amin urma fion liere sireg kwera sina ten'amin.  N'ter godramin bikairu alkone ulio sulrim miredr en kietsim.  Rindere ne ume shel menonamin laka lalodramin.  Ya! miruru n'lnendina ta ho uuma ma' ten' ratwe, ta tulula laba' ne. "
+    },
+    "howItWorks": {
+      "title": "hie ut wirks",
+      "subtitle": "ama halnare",
+      "content": "unlik eif tsialn-lelel, lire citual aln lalnmerkal ka kut, klanetal ere conkalkfir irbitind drir ker.  Drat makal drieind hie fer yiar dekinaan sepal shial laba gilen da laba rul kon.  Klus, elen dre latek aln tsutek ilkirklaneteryl tikal kol fil lalel uk ali 200,000 kilometiral eif laba kina sepafire rutind iat fier mece. ",
+      "step": "gelp",
+      "steps": [
+        "elkir yiar dekertore aln dekinaan klanets, alond widr dre da yia klan ali set ol. ",
+        "ozje yia'le made yiar thaces, eipal kar drem shial ali iar aki, lith retornal dre dikazje sepanan dre klanetal shiel kilometiral. ",
+        "if dre dikazje sepal tanir dran 200,000 kilometirs, ut'al lab sykemal vina.  Kila an, ut'al kina fir laba thande fier klanal. "
+      ]
+    },
+    "getStarted": {
+      "title": "ne teoso?",
+      "subtitle": "limi en",
+      "content": "befire eipal virka ali dre reshuremelks, yivra ulir kina ali lyl iat dre ilkirface fir yiarself.  Len yia’re afil, vina lisit dre shielkrurnional kage ali sa lat yia'n sepa sepalkind. ",
+      "instructions": "temkla hodoiru",
+      "plan": "iker lirenen"
+    }
+  },
+  "frontend": {
+    "hero": {
+      "title": "inkrurnions",
+      "subtitle": "solkeln",
+      "content": "belie yia'n filn laba lukdien fier an na futoral yia'n sepa sepalkind.  Sepalk drem shiel dre irdir drio ere liked, fonieind dre git wirknie gedelinal iatlinil eif dre bonom fier drial kage.  Eipal an walk ali yivra uk ti muth fier yiar kina suf ozje yia'le ruthil dre file hiar merk, kluse submit latelir yiar wirk. "
+    },
+    "intro": {
+      "title": "kak shiel miln",
+      "subtitle": "drindal ali",
+      "content": "an irbital ere kirfernfir curculer aln klanetal mole kronwise. \n\n iar tikal lalel eif nur liltkad, suf zjir amialk fier lalel kol sepa afil shiel laba sindle da. \n\n tikal kol fil lalel shiel krolt linal sepanan klanetal. \n\n yia kol fil lisit laba klanet ozje shiel laba gilen lik. \n\n yia kol lalel drrial dre sun, kien ut kol't sepa thosen weip laba kok. "
+    },
+    "features": [
+      {
+        "title": "murikle kokal kir lik",
+        "subtitle": "fut/murikle-koks",
+        "content": "at dre momelk, laleniral ere limitil ali thisind fun dekertore aln fun dekinaan klanet, lith ludal ali sukraan len lyind ali klan laba lik ali murikle klanetal. \n\n imklemelk laba muri-kok riate klatind ilkirface lire usiral kol al alitional kokal ali drir lik. \n\n dre usir tialk sepa atse ali al, remole aln edit efikind kokal eif zjir kina. \n\n de ali ilkirklaneteryl lisa rekrirnions, laba usir kol fil lisit laba klanet ozje kir lik.  Drat'al rilt, boruutacyl sepal laba anilirsal conkalk. "
+      },
+      {
+        "title": "riatal shial laba mak",
+        "subtitle": "fut/riate-mak",
+        "content": "one fier dre mok seshelk cokelkal eipal virka som usiral sepal drat dre ilkirface cialk use ulir lole. \n\n nie drat eipal'le alil muri-kok riates, eipal drir ut'al elen mire imkirtalk ali ilkroduce laba mak drat lisionyl rekreselkal dre riate. \n\n imklemelk laba mak fier dre soler sykem aln tie dre riate anali nulirind dre klanetal drat make uk dre usir-definil riate.  "
+      }
+    ],
+    "submitWork": {
+      "subtitle": "hie ali",
+      "title": "submit yiar wirk",
+      "content": "tute laba krilate firk fier dre gidrub. com/kriakakir/kacecadet reko aln krone ut. \n\ndelelok uth futore shiel dre akkrokreite lazjh, lith hale alrudyl ban tutil fir yia. \n\nlen yia're rudyl ali tute laba kr, sshat lab yiar cokital fir dre gilen lazjh, tute laba kr aln mirge ut. \n\nnote drat eipal reshure linur hikiryl shiel mon. \n\nlen yia're rudyl ali haln shiel yiar wirk, kluse shiellite dre fonieind gitkib usiral ali yiar reko:\n\nbaptistelaget, beaulac, nyujiri & gpapascr",
+      "instructions": "inkrurnions",
+      "plan": "klan yiar lik"
+    }
+  },
+  "fullstack": {
+    "hero": {
+      "title": "inkrurnions",
+      "subtitle": "solkeln",
+      "content": "belie yia'n filn laba lukdien fier an na futoral yia'n sepa sepalkind.  Sepalk drem shiel dre irdir drio ere liked, fonieind dre git wirknie gedelinal iatlinil eif dre bonom fier drial kage.  Eipal an walk ali yivra uk ti muth fier yiar kina suf ozje yia'le ruthil dre file hiar merk, kluse submit latelir yiar wirk. "
+    },
+    "intro": {
+      "title": "kak shiel miln",
+      "subtitle": "drindal ali",
+      "content": "an irbital ere kirfernfir curculer aln klanetal mole kronwise. \n\n iar tikal lalel eif nur liltkad, suf zjir amialk fier lalel kol sepa afil shiel laba sindle da. \n\n tikal kol fil lalel shiel krolt linal sepanan klanetal. \n\n yia kol fil lisit laba klanet ozje shiel laba gilen lik. \n\n yia kol lalel drrial dre sun, kien ut kol't sepa thosen weip laba kok. "
+    },
+    "features": [
+      {
+        "title": "murikle kokal kir lik",
+        "subtitle": "fut/murikle-koks",
+        "content": "at dre momelk, laleniral ere limitil ali thisind fun dekertore aln fun dekinaan klanet, lith ludal ali sukraan len lyind ali klan laba lik ali murikle klanetal. \n\n imklemelk laba muri-kok riate klatind ilkirface lire usiral kol al alitional kokal ali drir lik. \n\n dre usir tialk sepa atse ali al, remole aln edit efikind kokal eif zjir kina. \n\n de ali ilkirklaneteryl lisa rekrirnions, laba usir kol fil lisit laba klanet ozje kir lik.  Drat'al rilt, boruutacyl sepal laba anilirsal conkalk. "
+      },
+      {
+        "title": "riatal shial laba mak",
+        "subtitle": "fut/riate-mak",
+        "content": "one fier dre mok seshelk cokelkal eipal virka som usiral sepal drat dre ilkirface cialk use ulir lole. \n\n nie drat eipal'le alil muri-kok riates, eipal drir ut'al elen mire imkirtalk ali ilkroduce laba mak drat lisionyl rekreselkal dre riate. \n\n imklemelk laba mak fier dre soler sykem aln tie dre riate anali nulirind dre klanetal drat make uk dre usir-definil riate.  "
+      }
+    ],
+    "submitWork": {
+      "subtitle": "hie ali",
+      "title": "submit yiar wirk",
+      "content": "tute laba krilate firk fier dre gidrub. com/kriakakir/kacecadet reko aln krone ut. \n\ndelelok uth futore shiel dre akkrokreite lazjh, lith hale alrudyl ban tutil fir yia. \n\nlen yia're rudyl ali tute laba kr, sshat lab yiar cokital fir dre gilen lazjh, tute laba kr aln mirge ut. \n\nnote drat eipal reshure linur hikiryl shiel mon. \n\nlen yia're rudyl ali haln shiel yiar wirk, kluse shiellite dre fonieind gitkib usiral ali yiar reko:\n\nbaptistelaget, beaulac, ninayujiri & gpapascr",
+      "instructions": "inkrurnions",
+      "plan": "klan yiar lik"
+    }
+  },
+  "planner": {
+    "leaving": "Em lulind som",
+    "going": "aln gand ali",
+    "on": "en",
+    "departure": "dekertore",
+    "destination": "dekination",
+    "success": "hakkyl lalelal!",
+    "failure": "drony, yia anir make ut",
+    "datepicker": "tej an beet"
+  }
+}
