@@ -5,19 +5,22 @@ function DatePicker({
   date,
   setDate,
   label,
+  className,
+
 }: {
   date: Date | null;
   setDate: any;
-  label: string;
+    label: string;
+  className ?:string
 }) {
   return (
     <>
-      <Datepicker value={date} onChange={setDate} className="relative" as="div">
+      <Datepicker value={date} onChange={setDate} className={`relative ${className}`} as="div">
         <Datepicker.Input
           name="datePicker"
           id="datePicker"
           aria-label={label}
-          className="border-2 border-violet-500 px-5 py-3 lg:px-10 lg:py-4  rounded-full outline-0 appearance-none bg-black w-64 text-center relative z-10 hover:bg-violet-950"
+          className="border-2 border-violet-500 ml-2 px-5 py-3 lg:px-10 lg:py-4  rounded-full outline-0 appearance-none bg-black w-64 text-center relative z-10 hover:bg-violet-950"
         ></Datepicker.Input>
         <Datepicker.Picker defaultType="day" className="absolute">
           {({ monthName, year }) => (
